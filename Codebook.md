@@ -1,6 +1,4 @@
-**Codebook for run_analysis.R script**  
-
-This is a codebook for the run_analysis.R script.  
+**Codebook for GettingAndCleaningData-Project**  
 
 Notes:  
 
@@ -9,12 +7,14 @@ This code assumes all data is located in "UCI HAR Dataset" folder. The content o
 
 **Description**  
 
-This script merges the training and the test sets in one data set. It extracts only the measurements on the mean and standard deviation for each measurement.
+The run_analysis.R script merges the training and the test sets in one data set. It extracts only the measurements on the mean and standard deviation for each measurement.
 
 **Output**  
-
-One dataset is created: tidy_data.txt
-
+One dataset is created: 
 tidy_data.txt - Contains combined test and training data with measurements on the mean and standard deviation.
-**Code Explanation:**  Please reference the comments in the run_analysis.R file
-**Variables:**  Please reference the features_info.txt and features.txt
+
+**Code Explanation**  
+Please reference the comments in the run_analysis.R file
+
+**Variables**  
+Please reference the features_info.txt and features.txt
