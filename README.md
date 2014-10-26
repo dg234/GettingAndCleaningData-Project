@@ -12,7 +12,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 1.  Clone this repository
 2.  Change the working directory to GettingAndCleaningData-Project/ folder
 3.  Download the data source zip file
-4.  Unzip the source zip file: unzip getdata-projectfiles-UCI\ HAR\ Dataset.zip
+4.  Unzip the source zip file: unzip getdata-projectfiles-UCI HAR Dataset.zip
 5.  Source/Run run_analysis.R
   
 The code has been tested on Mac OSX and might have to be adapted for other operating systems.
